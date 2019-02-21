@@ -1,2 +1,4 @@
 *.db
 todo
+.cache
+*.log
