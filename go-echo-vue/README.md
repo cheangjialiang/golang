@@ -21,3 +21,5 @@ sudo setcap CAP_NET_BIND_SERVICE=+eip todo
 Then point your browser to https://localhost
 
 <img src="https://user-images.githubusercontent.com/47512872/53147695-4ac84d00-35e3-11e9-8e26-dc5342359598.png" height="200">
+
+Click for my DigitalOcean+FreeNom test server:  https://saikang.tk/
