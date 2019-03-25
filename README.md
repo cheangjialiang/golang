@@ -1,1 +1,1 @@
-# go-app
+# Leo's Go Language Playground
