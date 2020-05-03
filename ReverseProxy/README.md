@@ -2,7 +2,7 @@
 
 This is a simple ReverseProxy server written in Go and using the Echo Framework
 
-Just run the folowing
+Just run the following
 
 ## Usage
 ```
